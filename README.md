@@ -1,2 +1,0 @@
-# MeteoSandBoxCode
-Created with CodeSandbox
